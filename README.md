@@ -14,3 +14,7 @@ Enjoy your stay and please feel free to look around.
 
 * *Version 0.1 Pre-Release*
   1. Page Setup
+
+* *Version 0.1.1 Minor Updates*
+  1. Profile updates
+  2. Appearance updates

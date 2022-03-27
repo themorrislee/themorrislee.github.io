@@ -99,13 +99,20 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #935d8c;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
+		background-color: #71e092;
+		background-image: url("images/overlay.png"), -moz-linear-gradient(50deg, #000046 20%,  #079bc4 80%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(50deg, #000046 20%,  #079bc4 80%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(50deg, #000046 20%,  #079bc4 80%);
+		background-image: url("images/overlay.png"), linear-gradient(50deg, #000046 20%,  #079bc4 80%);
 	}
-
+	/* Color Types
+		#ffd89b, #19547b 
+		#4ca1af, #c4e0e5
+		#2b5876, #4e4376
+		#2c3e50, #3498db
+		#8360c3, #2ebf91
+		#000046, #1cb5e0	
+	*/
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
