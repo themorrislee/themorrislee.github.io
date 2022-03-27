@@ -8,7 +8,6 @@ Enjoy your stay and please feel free to look around.
 ### Quick Reference
 
 - [LinkedIn - Morris Lee](https://www.linkedin.com/in/morrislee-cwru/)
-- [OpenSea - silktofu](https://opensea.io/silktofu)
 
 ### Version History 
 
