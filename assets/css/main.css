@@ -2368,6 +2368,17 @@ input, select, textarea {
 		}
 
 /* Image */
+	.gem {
+		border-radius: 8px;
+		border: 0;
+		display: inline-block;
+		position: relative;
+	}
+
+	.gem img {
+		border-radius: 8px;
+		display: block;
+	}
 
 	.image {
 		border-radius: 8px;
@@ -3007,9 +3018,9 @@ input, select, textarea {
 		.spotlight .image {
 			display: inline-block;
 			margin-left: 4em;
-			padding: 0.65em;
+			padding: 0.4em;
 			border-radius: 100%;
-			border: solid 1px;
+			border: solid 5px;
 		}
 
 			.spotlight .image img {
@@ -3073,7 +3084,7 @@ input, select, textarea {
 		}
 
 	.spotlight .image {
-		border-color: rgba(255, 255, 255, 0.35);
+		border-color: rgba(82, 121, 198, 0.35);
 	}
 
 /* Header */
@@ -3129,6 +3140,9 @@ input, select, textarea {
 					display: block;
 					margin: 0 auto;
 					max-width: 75%;
+					height: 100px;
+					width: 100px;
+					border-radius: 20%;
 				}
 
 		@media screen and (max-width: 1280px) {
