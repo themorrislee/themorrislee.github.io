@@ -2425,7 +2425,8 @@ input, select, textarea {
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
-			width: 100%;
+			width: 50%;
+			height: 50%;
 		}
 
 			.image.main img {
@@ -3017,10 +3018,10 @@ input, select, textarea {
 
 		.spotlight .image {
 			display: inline-block;
-			margin-left: 4em;
-			padding: 0.4em;
 			border-radius: 100%;
-			border: solid 5px;
+			border: 10px solid black;
+			margin-left: 4em;
+			padding: 0.4em;			
 		}
 
 			.spotlight .image img {
@@ -3083,9 +3084,9 @@ input, select, textarea {
 
 		}
 
-	.spotlight .image {
-		border-color: rgba(82, 121, 198, 0.35);
-	}
+	/*.spotlight .image {
+		border-color: #079bc4;
+	}*/
 
 /* Header */
 
